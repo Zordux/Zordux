@@ -37,7 +37,7 @@ Tools         Git · Gitea · Redis · Linux (Fedora + Ubuntu)
 
 ## Background
 
-Started in C# reverse engineering game clients, moved into networking and sysadmin after leading a CyberPatriots club in high school. Now focused on network engineering with a longer-term interest in low-level programming — assembly, C, syscalls, eventually OS-level work.
+Started in C# reverse engineering game clients, moved into networking and sysadmin after leading a CyberPatriots club in high school. Now focused on network engineering with a longer-term interest in low-level programming assembly, C, syscalls, eventually OS-level work.
 
 I learn by building things that have real stakes. SharkByte is the clearest example of that.
 
