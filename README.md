@@ -9,7 +9,7 @@ CS undergrad @ UTSA · Network Engineer track · San Antonio, TX
 
 **Homelab**: Proxmox hypervisor, multi-VM architecture, security-first:
 - **Gateway VM**: WireGuard, Cloudflare Tunnels, Nginx reverse proxy, AdGuard Home
-- **Docker VM**: Gluetun/Mullvad killswitch → qBittorrent, Sonarr, Prowlarr, Jellyfin (anime stack)
+- **Docker VM**: Gluetun/Mullvad killswitch, containerized media services
 - **Dev VM**: Active development environment
 - Self-hosted Gitea at `192.168.1.140:3000` for cross-machine version control
 - SSH hardening, cloud-init overrides, WireGuard peer configs
